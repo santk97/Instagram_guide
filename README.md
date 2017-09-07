@@ -84,4 +84,28 @@ https://www.instagram.com/oauth/authorize/?client_id=262cbd39711f477b9a3d9d80580
  <br><br>
  7. __The Acces Token Has been Generated .__
  __Save This For Further uses .__
- 
+ <br><br>
+ 8. Now Adding user to **Sandbox**.
+ <br><br>
+ 9. Now click **Manage Clients** in the developer page and then **Manage**
+ <br><br>![client page ](screenshots/sand0.PNG)
+ <br><br>
+ 10.Click on the sandbox in manage client
+ <br><br>![client page ](screenshots/sandbox.PNG)
+ <br><br>
+ 11. You can add **10** User in your sandbox and each user can be invited to **5** apps.
+  <br><br>![client page ](screenshots/sand2.PNG)
+ <br><br>
+ 12. Type valid User name and send request to addup in sanbox
+ <br><br> ![client page ](screenshots/sn.PNG)
+ <br><br>
+ 13. Same as the different user want you to add in Sandbox it will appear in **Sandbox invites** in Header.Click **Sandbox Invites**.
+ <br><br>![Sandbox](screenshots/sand1.PNG)
+<br><br>
+ 14. Request to add in Sandbox will appear like this,Click **Accept** to  add in your Sandbox.
+ <br><br>![Invites](screenshots/san.PNG)
+ <br><br>
+ 15.Accepted sandbox invites will appear with user name.
+<br><br> ![accepted](screenshots/sa.PNG)
+ <br><br>
+ <br><br>16. You have Sucessfully add a user in your Sandbox. 
