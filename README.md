@@ -115,4 +115,4 @@ https://www.instagram.com/oauth/authorize/?client_id=262cbd39711f477b9a3d9d80580
  15.Accepted sandbox invites will appear with user name.
 <br><br> ![accepted](screenshots/sa.PNG)
  <br><br>
- <br><br>16. You have Sucessfully add a user in your Sandbox. 
+ <br><br>16. You have Sucessfully add a user in your Sandbox.
